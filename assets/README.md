@@ -1,2 +1,2 @@
-# Assets
-Only neutral resources that enable standards: schemas, test fixtures, diagrams or templates. No supplied default theme, brand artwork, copied screenshots or fonts. Curated live inspiration links belong under references. Do not package third-party copyrighted media.
+# Assets philosophy
+Place only neutral resources that support repeatable work: design-token **schemas** (not prescribed palette), responsive test fixtures, composition diagrams, optional non-branded brief/audit templates. Do not stockpile theme screenshots, arbitrary UI components, third-party artwork, copyrighted photos, or font files. Curated external links belong in `references/12-inspiration-sources.md`. Keeping this directory minimal is intentional.
