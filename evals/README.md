@@ -1,0 +1,2 @@
+# Evaluations
+Cross-industry evaluation scenarios to test whether the skill produces distinct creative responses, plus technical/accessibility review. Tests must not embed a house aesthetic or score originality purely from keywords.

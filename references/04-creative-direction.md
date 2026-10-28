@@ -1,0 +1,2 @@
+# Creative direction
+Propose distinctly different compositional and communication approaches when visual direction is undecided; avoid superficial recolours. Justify typography behaviour, imagery, spatial treatment, pacing and trade-offs. Do not imitate a reference website's recognizable signature or entire composition. Reject gratuitous complexity as vigorously as generic repetition. Evaluate whether the result would still be identifiable without its logo.

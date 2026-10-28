@@ -1,0 +1,2 @@
+# Development quality
+Respect the project's chosen framework and constraints; don't migrate stacks for aesthetic reasons. Use semantic HTML, accessible labels, structured heading order, resilient layouts, components with clear responsibility, appropriate image optimisation, safe dependency and input handling, clean loading/error/empty states, accessible forms, crawlable content where relevant, and maintainable styling. Measure performance where tools are available; never claim unrun tests passed. Prefer resilient CSS over device sniffing.

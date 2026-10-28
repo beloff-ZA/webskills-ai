@@ -1,0 +1,2 @@
+# Assets
+Only neutral resources that enable standards: schemas, test fixtures, diagrams or templates. No supplied default theme, brand artwork, copied screenshots or fonts. Curated live inspiration links belong under references. Do not package third-party copyrighted media.

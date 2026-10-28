@@ -1,0 +1,2 @@
+# Layout and spacing
+Choose constrained, expansive or hybrid widths by content responsibility. Keep long text readable while allowing carefully art-directed media to expand. Compose grid, offsets, columns, overlaps and asymmetry deliberately. Vary section rhythm; do not mechanically alternate identical two-column blocks. Keep spatial relationships coherent at each breakpoint. Prefer fluid measurements with usable min/max limits.

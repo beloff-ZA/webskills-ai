@@ -1,0 +1,2 @@
+# Graphic design
+Use contrast, alignment, proportion, hierarchy, balance, visual rhythm, negative space and intentional focal points. Treat type as part of composition; balance display, body and utility typography by role. Image crops must suit subject and content. Avoid making every section a rounded card or every headline enormous. Use deliberate colour relationships and assess contrast. Review at actual viewport sizes, not just a generated screenshot.

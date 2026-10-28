@@ -1,0 +1,2 @@
+# Communication design
+State one priority per region. Lead with a meaningful offer or idea rather than filler slogans. Make the intended customer action clear. Place trustworthy factual details and decision-critical information where required. Align visual emphasis with message importance, not merely aesthetic intensity. Use brand voice appropriate to the project. Never invent credentials, testimonials, stock, discounts or guarantees.

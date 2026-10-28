@@ -1,0 +1,2 @@
+# Design review
+Review purpose and communication, graphic composition, originality, usability, responsiveness, accessibility, commerce and engineering. Check for unmotivated centre-aligned hero, repetitive feature cards, gradient-by-default, identical section rhythm, generic copy and excessive scroll motion. These are warning signs, not banned techniques. For each finding record evidence, severity and a concrete correction. Separate verified testing from judgement; report open risks.

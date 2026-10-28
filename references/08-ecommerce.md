@@ -1,0 +1,2 @@
+# E-commerce UX
+Maintain predictable product discovery, search, filtering, sorting, variants, availability, sizing, pricing, shipping, returns, cart and checkout. Use editorial storytelling primarily on discovery and campaign surfaces. Match taxonomy to how customers shop; keep transactional controls easy to find. Don't invent stock, discounts, reviews or policies. Complex custom orders may need separate quotation flows; don't presume uploads or personalisation for every store.

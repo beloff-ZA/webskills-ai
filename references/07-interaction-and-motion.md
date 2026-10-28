@@ -1,0 +1,2 @@
+# Interaction and motion
+Every interaction must aid feedback, navigation, comprehension or storytelling. Preserve functional keyboard and touch equivalents. Use motion restraint, reduced-motion alternatives, understandable focus states and clear controls for media playback. Never make critical information accessible only on hover. Animate affordances rather than using motion as decorative proof of sophistication.

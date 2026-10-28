@@ -1,0 +1,2 @@
+# Project interpretation
+Accept a product idea, description, links, assets, existing website or combination. Do not require a fixed questionnaire. Establish purpose, desired action, primary audience needs, existing constraints, content and available assets. Separate confirmed, observed, inferred and unknown facts. Ask only for missing information that materially changes implementation; otherwise use reversible assumptions. Preserve brand identity unless redesign is authorised. Deliver a concise project-specific design rationale, not a project-specific skill.
