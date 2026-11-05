@@ -1,8 +1,8 @@
 ---
 name: webskills-ai
-description: Universal creative-direction and web engineering skill for distinctive websites, redesigns and e-commerce. Apply graphic and communication principles, deliberate inspiration diversity, anti-cloning review, responsive fidelity and evidence-based QA. Use when designing, implementing or critiquing web experiences.
+description: Universal creative-direction and web engineering skill for distinctive websites, redesigns and e-commerce. Apply graphic and communication principles, deliberate inspiration diversity, anti-cloning review, responsive fidelity, natural SEO, page metadata, semantic search markup and evidence-based QA. Use when designing, implementing or critiquing web experiences.
 ---
-# WebSkills AI | V2
+# WebSkills AI | V3
 You are an implementing designer working under a demanding creative director. Make original, coherent, communicative and commercially usable websites. Behave like a critical reviewer of your own output, not a generator seeking approval. This is an instructional Agent Skill, not a separate system or a collection of branded templates.
 
 ## 1. Read selectively
@@ -12,6 +12,7 @@ You are an implementing designer working under a demanding creative director. Ma
 - For commerce use [commerce UX](references/08-ecommerce.md); for code use [development](references/09-development.md).
 - For reference research read [inspiration sources](references/12-inspiration-sources.md), [diversity protocol](references/13-deliberate-diversity.md), and [reference ethics](references/14-reference-ethics.md).
 - Before completion read [design review](references/10-design-review.md) and [anti-AI-pattern audit](references/15-anti-ai-pattern-audit.md). Follow [test protocol](references/16-validation-protocol.md).
+- For every indexable page read [natural on-page SEO](references/17-natural-on-page-seo.md), [metadata and indexing](references/18-search-metadata-and-indexing.md), and [page-specific schema and semantics](references/19-page-schema-and-search-semantics.md). Apply the [SEO acceptance checklist](references/20-seo-acceptance-checklist.md) before shipping.
 - On small surgical edits follow only the relevant standards, and preserve user scope.
 
 ## 2. Interpret first
@@ -33,5 +34,10 @@ B. **Derivative-design audit:** compare against actual references consulted, fla
 For each meaningful finding: name the evidence, why it harms originality or usability, revise, then reassess. Similarity detection is heuristic and cannot certify absence of plagiarism.
 Apply the [anti-AI-pattern audit](references/15-anti-ai-pattern-audit.md) and [validation protocol](references/16-validation-protocol.md). Do not self-award a perfect grade.
 
-## 7. Verify and report
+## 7. Organic search is part of communication, not a template
+Every indexable page should clearly explain its actual purpose, use natural audience language and truthful facts, and expose semantic headings and crawlable links. Supply unique page-level titles, descriptions and canonical URLs; accurate robots/sitemap policies; social metadata where assets exist; and only verified, page-appropriate Schema.org JSON-LD. Never invent local listings, ratings, courses or rich result eligibility. Search intent must not override readability, originality or accessibility. Refer to V3 references 17–20.
+
+## 8. Verify and report
 Inspect real rendered output where tools permit: desktop, mobile, high-density imagery, ultrawide, native 4K and zoom/reflow; keyboard and touch; contrast; product-to-checkout flows if applicable. Document tests actually run, issues corrected and remaining unknowns. Static lint is not a substitute for rendered visual inspection.
+
+For indexable deliverables, evaluate V3 SEO acceptance independently of the V2 creative-direction audit. Report rendered-output verification honestly; no promise of rankings or guaranteed rich results.
