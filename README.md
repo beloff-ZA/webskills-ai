@@ -9,6 +9,11 @@ A universal, framework-independent Agent Skill for distinctive graphic design, c
 - **V2 (creative oversight):** deliberate research diversity, source ethics, creative-director adversarial review, an anti-AI-pattern rubric, validation protocol and an optional text-only heuristic audit.
 - **V3 (organic search and page semantics):** natural audience-first on-page content, unique metadata by route, canonical and indexing architecture, sitemap/robots guidance, semantic HTML by page type, truthful Schema.org JSON-LD and a dedicated SEO acceptance gate.
 
+## Product brand & product website extension (V3 add-on)
+- `references/21-product-brand-and-experience.md`: product-truth intake, premium positioning options, visual art direction, product/launch/PDP/stockist UX, mobile, accessibility, truthful commerce, compliance and an evidence-led scoring rubric.
+- `references/22-product-web-inspiration-library.md`: researched live sites and explicitly labelled Behance/Dribbble concepts across cider, champagne, juice and alcohol-free beverages, including original-source links and anti-cloning rules.
+- Activated selectively through root `SKILL.md`. SIROCCO is an illustrative test case, not a default palette, layout or site template.
+
 ## Installation
 Install the repository as a skill folder where your assistant supports the Agent Skills convention, ensuring its root `SKILL.md` is discovered. Typical locations vary by environment, for example `.agents/skills/webskills-ai`, `.claude/skills/webskills-ai` or `.github/skills/webskills-ai`. Refer to your assistant's current documentation. You can also copy the files into a user-level skills directory where supported.
 
